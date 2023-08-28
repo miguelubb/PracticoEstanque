@@ -1,3 +1,7 @@
+/*
+  Esta clase es un test de la clase Estanque.
+  Se ha creado siguiendo las indicaciones del enunciado del práctico
+ */
 public class EstanqueTest {
     public static void main(String[] args) {
         //	Crear un objeto Estanque y verificar que se encuentra vacío.
